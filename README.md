@@ -1,4 +1,4 @@
-# Open datasets for reproducible research and method development
+# Open datasets for reproducible machine learning research 
 Free datasets for open research, and development
 
 **kvasir-SEG** (https://datasets.simula.no/kvasir-seg/)
